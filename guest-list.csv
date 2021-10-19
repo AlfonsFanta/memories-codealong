@@ -1,0 +1,5 @@
+id, name, deadline, status
+1,Tom,,attending
+2,Sarah,,not attending
+3,Fritz,2021-10-25,unkown
+4,Lena,,attending 
